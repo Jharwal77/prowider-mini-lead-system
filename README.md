@@ -10,7 +10,7 @@ Built using Next.js, Prisma, PostgreSQL, and Server-Sent Events (SSE), the appli
 
 # 🌐 Live Demo
 
-https://prowider-mini-lead-system-black.vercel.app/?utm_source=chatgpt.com
+https://prowider-mini-lead-system-black.vercel.app/
 
 ---
 
