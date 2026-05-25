@@ -16,7 +16,7 @@ Add deployed URL here.
 
 # 📂 GitHub Repository
 
-Add GitHub repository URL here.
+(https://github.com/Jharwal77/prowider-mini-lead-system)
 
 ---
 
@@ -345,7 +345,7 @@ DATABASE_URL="your_postgresql_connection_string"
 ## 1. Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Jharwal77/prowider-mini-lead-system
 cd prowider-mini-lead-system
 ```
 
@@ -501,6 +501,6 @@ Potential future enhancements:
 
 # 👨‍💻 Author
 
-Rahul MMeena
+Rahul Meena
 Full Stack Developer
 
